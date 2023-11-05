@@ -3,7 +3,7 @@
 
     <div class="grid-container">
       <div class="dynamic-text">
-        Hearth is a telehealth scheduler and patient reminder making sure that
+        Docsin is a telehealth  and patient reminder making sure that
         patients are updated with their scheduling and appointments and reducing
         the barriers of access to doctors.
       </div>
@@ -13,6 +13,7 @@
     </div>
     </div>
   </template>
+  
   
   <script>
   export default {

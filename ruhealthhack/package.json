@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@digitalsamba/embedded-sdk": "^0.0.34",
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.2",
     "core-js": "^3.8.3",
