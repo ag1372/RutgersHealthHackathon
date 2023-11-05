@@ -3,7 +3,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 import Home from '/views/Home.vue';
 import Login from '/views/Login.vue';
 import Registration from '/views/Registration.vue';
-import Scheduler from '/views/Scheduler.vue';
+import VideoChat from '/views/Video_chat.vue';
 import Summarizer from '/views/Summarizer.vue';
 
 // Create a new router instance with our route definitions
@@ -26,9 +26,9 @@ const router = createRouter({
       component: Registration,
     },
     {
-        path: '/scheduler',
-        name: 'Scheduler',
-        component: Scheduler,
+        path: '/videochat',
+        name: 'VideoChat',
+        component: VideoChat,
       },
       {
         path: '/summarizer',

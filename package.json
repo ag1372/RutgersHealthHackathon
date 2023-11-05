@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@digitalsamba/embedded-sdk": "^0.0.34"
+  }
+}

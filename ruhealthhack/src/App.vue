@@ -4,7 +4,7 @@
       <router-link to="/"> Home </router-link> |
       <!-- <router-link to="/registration">Registration</router-link> | -->
       <router-link to="/login">Login</router-link> |
-      <router-link to="/scheduler">Scheduler</router-link> |
+      <router-link to="/videochat">Video Chat</router-link> |
       <router-link to="/summarizer">Summarizer</router-link> |
 
 
